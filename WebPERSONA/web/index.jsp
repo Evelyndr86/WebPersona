@@ -12,6 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Primera prueva GitHub</h1>
+        <h1>Prueba prueva GitHub</h1>
+        <h2>Primera prueva GitHub</h2>
+        <h3>Segunda prueva GitHub</h3>
     </body>
 </html>
